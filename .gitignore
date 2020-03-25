@@ -4,6 +4,7 @@
 *.o
 *.exe
 *.dll
+*.code-workspace
 
 # ファイルパターンを除外
 .*
